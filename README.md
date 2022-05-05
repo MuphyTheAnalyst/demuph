@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @demuph
+- 👋 Hi, I’m @MuphyTheAnalyst
 - 👀 I’m interested in DevOps and Data Analytics...
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on DevOps projects...
+- 🌱 I’m currently learning DevOps and python.
+- 💞️ I’m looking to collaborate on python or DevOps projects...
 - 📫 You can reach me on github or mail jidde.u@gmail.com
 
 <!---
